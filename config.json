@@ -1,0 +1,8 @@
+{
+    "prefix": "prefix", 
+    "token": "ton-token",
+    "cooldown": "met 0 pour le desactivé",
+    "logChannel": "channel_id",
+    "Statut": "met ton status ",
+    "OwnerId": "met ton id"
+}
